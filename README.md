@@ -20,3 +20,13 @@ SQL Scripts — Used to extract, clean, and join campaign-level datasets to answ
 
 ### ✅ Visual Insights using ggplot2 ### 
 Clear and compelling charts to communicate trends, uplift impact, and actionable recommendations to decision-makers
+
+## Data Sources ##
+The analysis is based on AtliQ Mart's internal retail datasets, extracted and prepared through SQL.
+The primary datasets used includes:
+- fact_events.
+- dim_products.
+- dim_stores.
+- dim_campaigns.
+
+These datasets together enabled a comprehensive view of promotion performance across products, stores, cities, and campaigns.
