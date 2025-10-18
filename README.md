@@ -128,6 +128,51 @@ As a result:
 - There is risk of underestimating or overestimating the true impact of this promotion type when compared with other promos like Cashback or Percentage Discounts.
 - This may introduce interpretation bias when comparing promotional effectiveness across strategies.
 
+# Insights Generated #
+From the analysis of AtliQ Mart's Diwali 2023 and Sankranti 2024 promotional campaigns, the following key business insights were identified:
+
+#### Store and City Performance ####
+- **Bengaluru, Chennai, and Myrusu** emerged as the strongest promo-responsive cities, with their stores dominating the Top 10 ranking for both Incremental Revenue and Incremental Sold Units.
+- Stores in **Visakhapatnam, Trivandrum, and Mangalore** showed moderate lift, indicating scope for campaign optimization.
+- **Coimbatore and Vijaywada** stores repeatedly appeared in **lower uplift range**, suggesting **weaker promo engagement or execution inefficiencies**.
+- **Bengalure** stores **(STBLR-7, STBLR-0, STBLR-6)** recorded the highest unit lift, especially under **BOGOF and Cashback** campaigns.
+- **Chennai outlets** also showed strong sales acceleration, making them as **priority locations for future targeted promotions**.
 
 
+#### Promotion-Type Effectiveness ####
+- **Cashback and BOGOF promotions** drove **maximum sales uplift** while keeping margins relatively healthy.
+- Flat **percentage-based discounts (25%,33%,50% OFF) resulted in **low revenue uplift and higher margin loss**, making them less efficient.
+- Promotions with **high perceived value (BOGOF, Cashback)** clearly outperformed pure discount offers.
+
+
+#### Category Performance ####
+- **Grocery & Staples** and **Home Appliances** drove the **highest promo lift**, showing strong responsiveness.
+- **Home Care & Combo Products** showed moderate uplift, potential targets for optimized promo strategy.
+- **Personal Care** delivered **minimal lift**, indicating **low promo sensitivity** and requiring rethink in offer positioning.
+
+#### Promotion Effectiveness ####
+- **500 Cashback** - Best for Revenue Growth (High ROI)
+- **BOGOF** - Best for Volume Lift (High Unit Uplift)
+- **Flat Discounts(25-50% OFF)** - Lowest Impact and Margin Dilution.
+- **BOGOF** = Best for driving volume and **Cashback** = Best for driving profit.
+
+#### Product Response Insight ####
+- **High-performing SKUs** like Chakki Atta, Sunflower Oil, LED Bulb, Immersion Rod showed 100K+ incremental units, ideal for future promo scaling.
+- **Low-impact products** in Personal Care categories showed little to negative uplift and should be deprioritized in future campaigns.
+
+
+#### Campaign Efficiency ####
+- **Sankranti campaign + BOGOF combo** generated the highest incremental units sold, showing strong festival buying sentiment.
+- **Diwali + Cashback** promotions delivered the best revenue uplift, indicating better margin-to-return balance.
+- **Flat discounts** showed **negative ROI** in both campaigns, confirming that **discount-heavy promotions** dilute profitability.
+
+
+## Conclusion ##
+- **Not all promotions deliver equal ROI** - Cashback and BOGOF clearly outperform blanket discounts.
+- **Targeted promotion strategy** based on product, city and store performance is **more effective than uniform promotions**.
+- **Top stores and responsive cities** shoul be used as **replication benchmark** for improving results in underperforming regions.
+- **Future promotions** should priorotize **high-responsive SKUs** and **Profitable categories** instead of applying offers to the entire catalog.
+- Introducing a **promo optimization strategy (Promo ROI Score/ Lift Matrix) can improve **decision-making and budget allocation** for upcoming campaigns.
+
+ 
 
